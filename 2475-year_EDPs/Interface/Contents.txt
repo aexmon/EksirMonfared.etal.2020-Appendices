@@ -1,0 +1,12 @@
+Contents:
+*Floor accelerations in coupled (X) and cantilevered (Y) directions.
+*Rotations of the two coupling beams (Beam1 and Beam2) in the north and south face of the core.
+*Shear forces of the two wall piers (C1 and C2) in the cantilevered direction.
+*Shear forces of the four quarters of the core (L1 to L4) in the coupled direction.
+*Steel tensile (ST) and concrete compressive (CC) strains at the four corners of the core.
+*Racking drifts.
+*Residual drifts.
+*Transient drifts.
+*Wall damageable drifts.
+
+
